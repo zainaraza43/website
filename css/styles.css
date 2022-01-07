@@ -5,7 +5,15 @@
   transform: translate(-50%, -50%);
 }
 
+* {
+  color: white;
+}
+
 h1 {
   color: blueviolet;
   width: fit-content;
+}
+
+body {
+  background-color: black;
 }
