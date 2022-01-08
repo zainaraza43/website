@@ -1,21 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 .center {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
   text-align: center;
+  margin-top: 15em;
 }
 
 * {
   color: white;
+  margin: 0;
 }
 
 #name {
   color: #940e36;
-  width: fit-content;
-  transform: translate(35%, -50%);
 }
 
 body {
