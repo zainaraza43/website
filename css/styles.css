@@ -8,6 +8,7 @@
 * {
   color: white;
   margin: 0;
+  padding: 0;
 }
 
 #name {
@@ -21,4 +22,18 @@ body {
 
 a {
   text-decoration: none;
+}
+
+#nav {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+ul li a {
+  display: block;
+  padding: 5px;
 }
